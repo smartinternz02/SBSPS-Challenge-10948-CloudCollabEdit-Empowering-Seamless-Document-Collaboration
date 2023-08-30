@@ -1,4 +1,4 @@
-# SBSPS-Challenge-10948-CloudCollabEdit-Empowering-Seamless-Document-Collaboration
+
 CloudCollabEdit: Empowering Seamless Document Collaboration
 The problem statement emphasizes the drawbacks of traditional document collaboration methods, which involve exchanging files through email. 
 This approach often leads to confusion and delays in productivity. To address these challenges, a cloud-enabled collaborative document editing platform is proposed. 
